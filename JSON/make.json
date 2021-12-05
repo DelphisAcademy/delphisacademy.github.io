@@ -1,0 +1,52 @@
+[{
+        "categoria": "Make",
+        "pregunta": "Están haciendo una audición para la nueva película ",
+        "respuesta": " They are making an audition for the new film",
+        "incorrecta1": "They have making an audition for the new film ",
+        "incorrecta2": "They make an audition for the new film ",
+        "incorrecta3": "They are made an audition for the new film",
+        "imagen": "https://cdn.pixabay.com/photo/2014/08/31/10/03/theater-432045_960_720.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Make",
+        "pregunta": " Han hecho una tarta deliciosa ",
+        "respuesta": " They have made a delicious cake",
+        "incorrecta1": "They made a delicious cake",
+        "incorrecta2": "They have make a delicious cake  ",
+        "incorrecta3": "They make a delicious cake",
+        "imagen": "https://cdn.pixabay.com/photo/2016/11/29/11/38/cake-1869227_960_720.jpg ",
+        "objectFit": "cover"
+    }, {
+        "categoria": "Make  ",
+        "pregunta": "Hicieron el almuerzo para Lisa",
+        "respuesta": " They made lunch for Lisa ",
+        "incorrecta1": "They have made lunch for Lisa ",
+        "incorrecta2": "They make lunch for Lisa",
+        "incorrecta3": "They maked lunch for Lisa",
+        "imagen": "https://cdn.pixabay.com/photo/2017/01/26/02/06/platter-2009590_960_720.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Make  ",
+        "pregunta": " Harán una tarta una tarta de cumpleaños ",
+        "respuesta": " They will make a birthday cake",
+        "incorrecta1": "They are going to make a birthday cake ",
+        "incorrecta2": "They would make a birthday cake",
+        "incorrecta3": "They are going to made  a birthday cake",
+        "imagen": "https://cdn.pixabay.com/photo/2015/05/31/11/40/cake-791259_960_720.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "Make",
+        "pregunta": "Van a hacer un viaje con sus esposas ",
+        "respuesta": "They are going to make a trip with their wifes",
+        "incorrecta1": " They will make a trip with their wifes ",
+        "incorrecta2": "They would make a trip with their wifes",
+        "incorrecta3": "They are going to made a trip with their wifes ",
+        "imagen": "https://cdn.pixabay.com/photo/2015/04/20/13/17/airport-731196_960_720.jpg",
+        "objectFit": "cover"
+    }
+]

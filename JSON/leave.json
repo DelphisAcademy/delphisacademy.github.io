@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": " Están dejando el hotel   ",
+    "respuesta": "They are leaving the hotel   ",
+    "incorrecta1": "They leave the hotel   ",
+    "incorrecta2": "They left the hotel   ",
+    "incorrecta3": "They leaving the hotel     ",
+    "imagen": "https://cdn.pixabay.com/photo/2014/07/21/19/20/lobby-398845_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "Han dejado un mensaje para ti",
+    "respuesta": "They have left a message for you",
+    "incorrecta1": "They left  a message for you  ",
+    "incorrecta2": "They leaved  a message for you  ",
+    "incorrecta3": "They have leaved   a message for you",
+    "imagen": "https://cdn.pixabay.com/photo/2018/04/12/04/41/telephone-3312551_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Se fueron de la ciudad a las 7     ",
+    "respuesta": "They left the city at 7 o'clock  ",
+    "incorrecta1": "They have left the city at 7 o'clock   ",
+    "incorrecta2": "They leaved the city at 7 o'clock  ",
+    "incorrecta3": "They have leaved the city at 7 o'clock ",
+    "imagen": "https://cdn.pixabay.com/photo/2021/05/01/09/59/city-6220689_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": " Se irán de Londres el año que viene ",
+    "respuesta": " They will leave London next year  ",
+    "incorrecta1": "They will left London next year   ",
+    "incorrecta2": " They will leaved London next year ",
+    "incorrecta3": "They are going to leave London next year   ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/06/11/18/03/big-ben-2393098_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Se van a ir pronto     ",
+    "respuesta": " They are going to leave soon  ",
+    "incorrecta1": "  They will left to leave soon   ",
+    "incorrecta2": "They will leaved to leave soon    ",
+    "incorrecta3": "They will  leave to leave soon    ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/02/18/22/18/picnic-1208229_960_720.jpg",
+    "objectFit": "contain"
+}]

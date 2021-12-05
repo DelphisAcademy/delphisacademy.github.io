@@ -1,0 +1,53 @@
+[{
+        "categoria": "Verbo 3",
+        "pregunta": "Han podido / Ha sabido     ",
+        "respuesta": "They have been able /He has known        ",
+        "incorrecta1": "They have been able / He has known   ",
+        "incorrecta2": "They  have  being able / He has known     ",
+        "incorrecta3": "They have being able / He has known ",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Verbo 3 ",
+        "pregunta": " ¿Podían? / ¿Sabía?  ",
+        "respuesta": "Could they? /Did he know?",
+        "incorrecta1": "Can they? / Did he know ",
+        "incorrecta2": "Could they /Did he known   ",
+        "incorrecta3": "Could they / Did he knew?  ",
+        "imagen": "/img/logo3.png ",
+        "objectFit": "contain"
+    }, {
+        "categoria": "Verbo 3  ",
+        "pregunta": "No podrán / No sabrá        ",
+        "respuesta": "They won't be able/ He won't know ",
+        "incorrecta1": "They aren't going to be able / He isn't going to be able         ",
+        "incorrecta2": "He won't be able/ They won't know   ",
+        "incorrecta3": "They won't be able /He won't known  ",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Verbo 3  ",
+        "pregunta": "  Van a poder / Va a saber",
+        "respuesta": "They're going to be able / He's going to know ",
+        "incorrecta1": "They will be able /He will be able  ",
+        "incorrecta2": " They're going to been able / He is going to known   ",
+        "incorrecta3": "They're going to been able / He's going to known  ",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+
+    },
+    {
+        "categoria": "Verbo 3  ",
+        "pregunta": " Pueden / Sabe      ",
+        "respuesta": "They can /He knows ",
+        "incorrecta1": "They are being able / He knows  ",
+        "incorrecta2": "They can /He know           ",
+        "incorrecta3": "They could / He knew  ",
+        "imagen": "/img/logo3.png",
+        "objectFit": "contain"
+
+    }
+]

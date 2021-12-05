@@ -1,0 +1,52 @@
+[{
+        "categoria": "Verbo 3",
+        "pregunta": "Estoy trabajando muy duro hoy   ",
+        "respuesta": "I'm working really hard today  ",
+        "incorrecta1": "I have worked really hard today ",
+        "incorrecta2": "I work really hard today  ",
+        "incorrecta3": "I worked really hard today ",
+        "imagen": "https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Verbo 3 ",
+        "pregunta": " He trabajado con James desde que teníamos 20 años  ",
+        "respuesta": "I have worked with James since we were 20",
+        "incorrecta1": "I worked  with James since we were 20  ",
+        "incorrecta2": "I have work with James since we were 20  ",
+        "incorrecta3": "I work with James since we were 20 ",
+        "imagen": "https://cdn.pixabay.com/photo/2017/05/04/16/37/meeting-2284501_960_720.jpg",
+        "objectFit": "contain"
+    }, {
+        "categoria": "Verbo 3  ",
+        "pregunta": "Trabajé en un museo cuando era joven ",
+        "respuesta": "I worked in a museum when I was younger ",
+        "incorrecta1": " I have worked in a museum when I was younger  ",
+        "incorrecta2": " I have work  in a museum when I was younger ",
+        "incorrecta3": "I will worked in a museum when I was younger  ",
+        "imagen": "https://cdn.pixabay.com/photo/2017/08/06/09/29/people-2590655_960_720.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Verbo 3 ",
+        "pregunta": " Voy a trabajar en eso      ",
+        "respuesta": "I'm going to work in that",
+        "incorrecta1": "I will  work in that ",
+        "incorrecta2": "I would work  in that",
+        "incorrecta3": "We will told  them to come back",
+        "imagen": "https://cdn.pixabay.com/photo/2017/01/12/10/40/school-1974369_960_720.jpg",
+        "objectFit": "contain"
+
+    },
+    {
+        "categoria": "Verbo 3",
+        "pregunta": "Trabajaré en mis cualidades  ",
+        "respuesta": "I will work on my skills ",
+        "incorrecta1": "I'm going to work on my skills  ",
+        "incorrecta2": "I would work on my skills ",
+        "incorrecta3": "I will worked on my skills  ",
+        "imagen": "https://cdn.pixabay.com/photo/2015/06/05/07/11/road-sign-798175_960_720.jpg",
+        "objectFit": "contain"
+    }
+]

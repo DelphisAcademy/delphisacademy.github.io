@@ -1,0 +1,50 @@
+[{
+        "categoria": "Get",
+        "pregunta": "No estás obteniendo mucha atención ultimamente  ",
+        "respuesta": "You aren't getting a lot of attention lately  ",
+        "incorrecta1": "You haven't getting a lot of attention lately",
+        "incorrecta2": "You aren't gotten  a lot of attention lately",
+        "incorrecta3": "You don't get a lot of atention lately  ",
+        "imagen": "https://cdn.pixabay.com/photo/2012/02/24/16/58/photographers-16724_960_720.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "Get",
+
+        "pregunta": "Has obtenido tu pasaporte este año",
+        "respuesta": "You have gotten your passport this year ",
+        "incorrecta1": "You are getting your passport this year ",
+        "incorrecta2": "You got your passport this year",
+        "incorrecta3": "You are going to get your passport this year",
+        "imagen": "https://cdn.pixabay.com/photo/2020/05/25/17/03/travel-5219496_960_720.jpg",
+        "objectFit": "cover"
+    }, {
+        "categoria": "Get ",
+        "pregunta": "No conseguiste el trabajo ",
+        "respuesta": "You didn't get that work  ",
+        "incorrecta1": "You haven't gottten that work",
+        "incorrecta2": "You hadn't gotten that work ",
+        "incorrecta3": "You didn't gotten that work ",
+        "imagen": "https://cdn.pixabay.com/photo/2017/01/14/10/56/people-1979261_960_720.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Get ",
+        "pregunta": "Conseguirás lo que quieras ",
+        "respuesta": "You will get what you wan't  ",
+        "incorrecta1": "You are going to  get what you want",
+        "incorrecta2": "You will got what you want",
+        "incorrecta3": "You're going to got what you want",
+        "imagen": "https://cdn.pixabay.com/photo/2017/08/06/14/20/matterhorn-2592947_960_720.jpg",
+        "objectFit": "cover"
+    }, {
+        "categoria": "Get ",
+        "pregunta": "Vas a conseguir mucho dinero",
+        "respuesta": "You are going to get a lot of money ",
+        "incorrecta1": "You are going to got a lot of money",
+        "incorrecta2": "You will get a lot of money ",
+        "incorrecta3": "You will got a lot of money",
+        "imagen": "https://cdn.pixabay.com/photo/2014/10/23/10/10/dollars-499481_960_720.jpg",
+        "objectFit": "cover"
+    }
+]

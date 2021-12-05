@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Se están cayendo de la bici    ",
+    "respuesta": "They are falling off their bike   ",
+    "incorrecta1": "They fall off their bike    ",
+    "incorrecta2": "They would fall off their bike     ",
+    "incorrecta3": "They fell  off their bike    ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/29/11/29/bicycle-1869176_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "Se han caído por las escaleras    ",
+    "respuesta": "They have fallen down stairs ",
+    "incorrecta1": "They have fell down stairs  ",
+    "incorrecta2": "They have fall down stairs ",
+    "incorrecta3": "They haven't fall  down stairs  ",
+    "imagen": "https://cdn.pixabay.com/photo/2013/04/01/21/31/falling-99175_960_720.png",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": " Se cayeron de una gran altura    ",
+    "respuesta": " They fell from a great height     ",
+    "incorrecta1": "They have fallen a great height  ",
+    "incorrecta2": "They fall a great height ",
+    "incorrecta3": "They fallen a great height ",
+    "imagen": "https://cdn.pixabay.com/photo/2018/01/23/23/06/sunset-3102709_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": " Se caerán si hacen eso    ",
+    "respuesta": "They will fall if they do that ",
+    "incorrecta1": "They would fall if they do that",
+    "incorrecta2": " They will fell  if they do that ",
+    "incorrecta3": "They will fallenif they do that    ",
+    "imagen": "https://cdn.pixabay.com/photo/2018/03/03/20/06/motocross-3196492_960_720.png",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": " No van a caerse, saben como hacerlo     ",
+    "respuesta": " They are not going to fall, they know how to do it    ",
+    "incorrecta1": "They aren't going to fell, they know how to do it  ",
+    "incorrecta2": "They wouldn't fall,they know how to do it    ",
+    "incorrecta3": "They won't fall , they know how to do it    ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/06/16/15/39/motocross-1461530_960_720.jpg",
+    "objectFit": "contain"
+}]

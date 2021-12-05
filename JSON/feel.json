@@ -1,0 +1,53 @@
+[{
+        "categoria": "Verbo 3",
+        "pregunta": "Nos sentimos mejor ahora     ",
+        "respuesta": "We feel better now    ",
+        "incorrecta1": "  We would feel  better now     ",
+        "incorrecta2": "We are feeling  better now    ",
+        "incorrecta3": "We felt  better now  ",
+        "imagen": "https://cdn.pixabay.com/photo/2017/12/17/21/44/coffee-3025022_960_720.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Verbo 3 ",
+        "pregunta": " Nos hemos sentido muy mal por él  ",
+        "respuesta": "We have felt so bad for him",
+        "incorrecta1": " We felt so bad for him",
+        "incorrecta2": "We have feel so bad for him  ",
+        "incorrecta3": "He feelted  so bad for him ",
+        "imagen": "https://cdn.pixabay.com/photo/2020/04/07/04/17/desperate-5011953_960_720.jpg ",
+        "objectFit": "contain"
+    }, {
+        "categoria": "Verbo 3  ",
+        "pregunta": "Nos sentimos muy emocionados por las noticias         ",
+        "respuesta": "We felt so excited for the news  ",
+        "incorrecta1": "We have felt so excited for the news      ",
+        "incorrecta2": "We feel  so excited for the news ",
+        "incorrecta3": "We have feel so excited for the news ",
+        "imagen": "https://cdn.pixabay.com/photo/2015/11/07/11/01/couple-1030744_960_720.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "  ",
+        "pregunta": " Nos sentiremos mal si haces eso ",
+        "respuesta": "We will feel bad if you do that ",
+        "incorrecta1": "We are going to feel  bad if you do that   ",
+        "incorrecta2": " We will felt  bad if you do that     ",
+        "incorrecta3": "We are going to felt  bad if you do that ",
+        "imagen": "https://cdn.pixabay.com/photo/2020/04/07/04/17/desperate-5011953_960_720.jpg",
+        "objectFit": "contain"
+
+    },
+    {
+        "categoria": "Verbo 3  ",
+        "pregunta": " Nos vamos a sentir genial si te ayudamos   ",
+        "respuesta": "We are going to feel great if we help you  ",
+        "incorrecta1": "We will feel great if we help you ",
+        "incorrecta2": " We will felt great if we help you          ",
+        "incorrecta3": "We are going to felt great if we help you   ",
+        "imagen": "https://cdn.pixabay.com/photo/2017/01/14/10/57/woman-1979272_960_720.jpg",
+        "objectFit": "contain"
+
+    }
+]

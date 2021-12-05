@@ -1,0 +1,47 @@
+[{
+    "categoria": "  Take",
+    "pregunta": "Se está convirtiendo en un gran estudiante     ",
+    "respuesta": "He's becoming a great student",
+    "incorrecta1": "He has become a great student  ",
+    "incorrecta2": "He become a great student  ",
+    "incorrecta3": "He would become a great student    ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/07/27/19/45/asian-863318_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": " Acaba de convertirse en padre     ",
+    "respuesta": "He has just become a father",
+    "incorrecta1": "He just became  a father   ",
+    "incorrecta2": "He just become  a father  ",
+    "incorrecta3": "He has just became  a father    ",
+    "imagen": "https://cdn.pixabay.com/photo/2012/03/01/01/42/baby-20339_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": " Va a convertirse en un cantante famoso  ",
+    "respuesta": " He is going to become a famous singer       ",
+    "incorrecta1": "He will became a famous singer",
+    "incorrecta2": "He will become a famous singer  ",
+    "incorrecta3": "He's going to became a famous singer ",
+    "imagen": "https://cdn.pixabay.com/photo/2013/10/04/21/13/woman-190897_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": " Se convirtió en un chef excelente     ",
+    "respuesta": " He became an excellent chef ",
+    "incorrecta1": "He become an excellent chef ",
+    "incorrecta2": "  He has become an excellent chef",
+    "incorrecta3": "He has became an excellent chef",
+    "imagen": "https://cdn.pixabay.com/photo/2014/06/10/15/47/pizza-366111_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Llegará a ser un arquitecto          ",
+    "respuesta": " He will become an architect    ",
+    "incorrecta1": "He will became an architect  ",
+    "incorrecta2": "He's going to become an architect     ",
+    "incorrecta3": " He will became an architect    ",
+    "imagen": "https://cdn.pixabay.com/photo/2019/02/06/16/32/architect-3979490_960_720.jpg",
+    "objectFit": "contain"
+}]

@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Está intentando hacer lo máximo posible      ",
+    "respuesta": "He's trying to do his best   ",
+    "incorrecta1": "He tries  to do his best   ",
+    "incorrecta2": "He tried to do his best  ",
+    "incorrecta3": "He's tryed to do his best     ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/02/02/11/08/office-620817_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "No ha intentado llamarla     ",
+    "respuesta": "He hasn't tried to call her  ",
+    "incorrecta1": "He didn't try  to call her ",
+    "incorrecta2": " He haven't try  to call her ",
+    "incorrecta3": "He hasn't try   to call her     ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/01/01/23/55/telephone-586266_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "  Intentó hacer una tarta de chocolate     ",
+    "respuesta": "He tried to make a chocolate cake    ",
+    "incorrecta1": "He has tried to call her ",
+    "incorrecta2": "He try to call her",
+    "incorrecta3": "He tries to call her  ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/04/05/22/33/cake-2206618_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": "  Intentará hacerlo más rápido      ",
+    "respuesta": " He will try to do it faster ",
+    "incorrecta1": "He will tries to do it faster  ",
+    "incorrecta2": "He's going to try  to do it faster",
+    "incorrecta3": "He would try to do it faster    ",
+    "imagen": "https://cdn.pixabay.com/photo/2020/04/22/10/14/running-5077128_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Va a probar tu delicioso plato     ",
+    "respuesta": "He's going to try your delicious meal   ",
+    "incorrecta1": "He's going to tries your delicious meal    ",
+    "incorrecta2": "He will try your delicious meal    ",
+    "incorrecta3": "He would try your delicious meal    ",
+    "imagen": "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706_960_720.jpg",
+    "objectFit": "contain"
+}]

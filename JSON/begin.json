@@ -1,0 +1,53 @@
+[{
+        "categoria": "Begin",
+        "pregunta": "Estoy empezando a conocerlo     ",
+        "respuesta": "I'm beginning  to know him",
+        "incorrecta1": "I begin to know him ",
+        "incorrecta2": "I'm begin to know him",
+        "incorrecta3": "I beginning  to know him",
+        "imagen": "https://cdn.pixabay.com/photo/2018/11/06/14/01/couple-3798371_960_720.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Begin",
+        "pregunta": " Ya he empezado la clase ",
+        "respuesta": "I have  already begun the lesson",
+        "incorrecta1": "I had already begun  the lesson",
+        "incorrecta2": "I have already begin the lesson ",
+        "incorrecta3": "I have already began the lesson",
+        "imagen": "https://cdn.pixabay.com/photo/2018/10/22/18/02/teacher-3765909_960_720.jpg ",
+        "objectFit": "cover"
+    }, {
+        "categoria": "Begin  ",
+        "pregunta": "Empecé a trabajar la semana pasada ",
+        "respuesta": "I began to work last week ",
+        "incorrecta1": "I begun to work last week    ",
+        "incorrecta2": "I have begun to work last week ",
+        "incorrecta3": "I have began to work last week ",
+        "imagen": "https://cdn.pixabay.com/photo/2016/03/09/09/22/meeting-1245776_960_720.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Begin ",
+        "pregunta": " Empezaré a construir la casa de madera el mes que viene",
+        "respuesta": "I will begin building the wooden house next month ",
+        "incorrecta1": "I 'm going to begin building the wooden house next month ",
+        "incorrecta2": "  I will began  building the wooden house next month ",
+        "incorrecta3": "I will begun building the wooden house next month  ",
+        "imagen": "https://cdn.pixabay.com/photo/2014/05/02/23/53/shed-336505_960_720.jpg",
+        "objectFit": "contain"
+
+    },
+    {
+        "categoria": "Begin ",
+        "pregunta": " Voy a empezar con el proyecto         ",
+        "respuesta": "I'm going to begin with the project",
+        "incorrecta1": "I will begin with the project",
+        "incorrecta2": " I'm going to begun with the project        ",
+        "incorrecta3": "I'm going to began  with the project",
+        "imagen": "https://cdn.pixabay.com/photo/2017/10/10/21/47/laptop-2838921_960_720.jpg",
+        "objectFit": "contain"
+
+    }
+]

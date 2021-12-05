@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Permanezco leal a ti      ",
+    "respuesta": "I remain loyal to you   ",
+    "incorrecta1": "I have remained loyal to you    ",
+    "incorrecta2": "I would remain  loyal to you ",
+    "incorrecta3": "I'm going to remain   loyal to you   ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/04/08/12/59/girlfriends-2213259_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "He permanecido soltero durante toda mi vida     ",
+    "respuesta": "I have remained single my whole life   ",
+    "incorrecta1": "I remained single my whole life",
+    "incorrecta2": "I have remain  single my whole life ",
+    "incorrecta3": "I remain   single my whole life    ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": " Permaneceré en silencio   ",
+    "respuesta": "I remained silent    ",
+    "incorrecta1": "I have remained silent     ",
+    "incorrecta2": "I remain silent",
+    "incorrecta3": "I remainead silent   ",
+    "imagen": "https://cdn.pixabay.com/photo/2019/12/24/11/21/girl-4716572_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": "  Permaneceré tranquilo     ",
+    "respuesta": " I will remain calm ",
+    "incorrecta1": "I would remain  calm   ",
+    "incorrecta2": " I'm going to remain  calm   ",
+    "incorrecta3": "I remain  calm      ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/22/23/29/meditate-1851165_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Voy a permanecer de pie     ",
+    "respuesta": " I’m going to remain standing   ",
+    "incorrecta1": "I will remain standing  ",
+    "incorrecta2": "I would remain  standing   ",
+    "incorrecta3": "I remain  standing   ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/11/07/11/56/legs-1031653_960_720.jpg",
+    "objectFit": "contain"
+}]

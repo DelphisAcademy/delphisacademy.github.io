@@ -1,0 +1,53 @@
+[{
+        "categoria": "Verbo ",
+        "pregunta": "Estoy corriendo con Paul         ",
+        "respuesta": "I'm running with Paul    ",
+        "incorrecta1": "I  would running with Paul ",
+        "incorrecta2": "I run with Paul    ",
+        "incorrecta3": "I running with Paul   ",
+        "imagen": "https://cdn.pixabay.com/photo/2015/04/20/13/44/sports-731506_960_720.jpg  ",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Verbo  ",
+        "pregunta": "He corrido en las Olimpiadas   ",
+        "respuesta": "I have run in the Olympics",
+        "incorrecta1": "I have ran in the Olympics ",
+        "incorrecta2": "I run in the Olympics   ",
+        "incorrecta3": "I ran in the Olympics   ",
+        "imagen": "https://cdn.pixabay.com/photo/2015/03/01/22/27/women-655353_960_720.jpg ",
+        "objectFit": "contain"
+    }, {
+        "categoria": "Verbo 3  ",
+        "pregunta": "Corrí con mi hermano ayer          ",
+        "respuesta": " I ran with my brother yesterday ",
+        "incorrecta1": "I have run with my brother yesterday         ",
+        "incorrecta2": "I have ran  with my brother yesterday        ",
+        "incorrecta3": "I run  with my brother yesterday        ",
+        "imagen": "https://cdn.pixabay.com/photo/2020/10/05/20/03/boys-5630669_960_720.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "  ",
+        "pregunta": "Correré con Peter y Mike   ",
+        "respuesta": " I will run with Peter and Mike",
+        "incorrecta1": "I would ru with Peter and Miken    ",
+        "incorrecta2": " I will ran with Peter and Mike        ",
+        "incorrecta3": "I'm going to run  with Peter and Mike",
+        "imagen": "https://cdn.pixabay.com/photo/2016/03/23/22/40/running-1275803_960_720.jpg",
+        "objectFit": "contain"
+
+    },
+    {
+        "categoria": "Verbo   ",
+        "pregunta": " Voy a correr en el parque mañana      ",
+        "respuesta": "I'm going to run in the park tomorrow ",
+        "incorrecta1": "I will ran  in the park tomorrow  ",
+        "incorrecta2": " I will run  in the park tomorrow         ",
+        "incorrecta3": "I would run  in the park tomorrow  ",
+        "imagen": "https://cdn.pixabay.com/photo/2017/08/06/12/52/woman-2592247_960_720.jpg",
+        "objectFit": "contain"
+
+    }
+]

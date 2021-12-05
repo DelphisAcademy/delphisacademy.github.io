@@ -1,0 +1,52 @@
+[{
+        "categoria": "Verbo 3",
+        "pregunta": "Le estamos contando la historia  ",
+        "respuesta": "We are telling him the story ",
+        "incorrecta1": "We tell him the story ",
+        "incorrecta2": "We are tell him the story ",
+        "incorrecta3": "We are going to tell him the story",
+        "imagen": "https://cdn.pixabay.com/photo/2016/01/19/17/53/book-1149959_960_720.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Verbo 3 ",
+        "pregunta": " Le acabamos de decir la verdad  ",
+        "respuesta": "We have just told them the truth ",
+        "incorrecta1": "We just told them the truth  ",
+        "incorrecta2": "We have just tell them the truth  ",
+        "incorrecta3": "We have just telled them the truth",
+        "imagen": "https://res.cloudinary.com/twenty20/private_images/t_standard-fit/v1521838974/photosp/f100f171-4401-41ee-9d3e-23d2b0b34bcc/f100f171-4401-41ee-9d3e-23d2b0b34bcc.jpg",
+        "objectFit": "contain"
+    }, {
+        "categoria": "Verbo 3  ",
+        "pregunta": "No le dijimos que venias ",
+        "respuesta": "We didn't tell her you were coming ",
+        "incorrecta1": "We didn't told  you were coming  ",
+        "incorrecta2": "We haven't tell  you were coming ",
+        "incorrecta3": "We haven't told  you were coming  ",
+        "imagen": "https://cdn.pixabay.com/photo/2014/12/28/09/52/friends-581753_960_720.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Verbo 3 ",
+        "pregunta": " Le diremos que vuelva         ",
+        "respuesta": " We will tell them to come back ",
+        "incorrecta1": "We would them to come back ",
+        "incorrecta2": "We are going to them to come back",
+        "incorrecta3": "We will told  them to come back",
+        "imagen": "https://cdn.pixabay.com/photo/2019/06/02/17/33/woman-4246954_960_720.jpg",
+        "objectFit": "contain"
+
+    },
+    {
+        "categoria": "Verbo 3",
+        "pregunta": "Le vamos a decir a todo el mundo que se vaya ",
+        "respuesta": "We are going to tell everyone to leave",
+        "incorrecta1": "We will tell everyone to leave  ",
+        "incorrecta2": "We are going to telled everyone to leave",
+        "incorrecta3": "We're will telled everyone to leave ",
+        "imagen": "https://cdn.pixabay.com/photo/2015/09/02/13/04/marriage-918864_960_720.jpg",
+        "objectFit": "contain"
+    }
+]

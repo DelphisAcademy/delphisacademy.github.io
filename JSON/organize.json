@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Estás organizando las cosas?     ",
+    "respuesta": " Are you organizing this stuff?  ",
+    "incorrecta1": "Do you organize this stuff?   ",
+    "incorrecta2": "Are you organized this stuff? ",
+    "incorrecta3": "Do you organized this stuff?     ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/06/15/19/05/messy-1459688_960_720.png",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "Has organizado tus cosas?     ",
+    "respuesta": "Have you organized your things?    ",
+    "incorrecta1": "Did you organize your things? ",
+    "incorrecta2": "Have you organize your things?   ",
+    "incorrecta3": "Did you organized your things?      ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/06/16/11/29/the-suitcase-811122_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "  Organizaste tu clase?     ",
+    "respuesta": "Did you organize your lesson?      ",
+    "incorrecta1": "Have you organized your lesson?   ",
+    "incorrecta2": "Did you organized  your lesson?   ",
+    "incorrecta3": "Have you organize your lesson?   ",
+    "imagen": "https://cdn.pixabay.com/photo/2018/10/22/18/02/teacher-3765909_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": " Organizarás los programas del colegio      ",
+    "respuesta": " You will organize the school programmes  ",
+    "incorrecta1": "You would organize the school programmes   ",
+    "incorrecta2": " You will organized the school programmes   ",
+    "incorrecta3": "You're going to organize the school programmes   ",
+    "imagen": "https://cdn.pixabay.com/photo/2020/04/20/20/57/training-5069846_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Vas a organizar el evento este año  ",
+    "respuesta": " You're going to organize the event this year   ",
+    "incorrecta1": "You would organize the event this year ",
+    "incorrecta2": "You're going to organized the event this year  ",
+    "incorrecta3": "You will organize the event this year     ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/03/01/18/16/people-1230872_960_720.jpg",
+    "objectFit": "contain"
+}]

@@ -1,0 +1,47 @@
+[{
+    "categoria": "Follow",
+    "pregunta": "Lo siguió hasta casa    ",
+    "respuesta": " He followed him home   ",
+    "incorrecta1": "He has followed  him home",
+    "incorrecta2": "He follow him home  ",
+    "incorrecta3": "He has follow  him home",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "Follow ",
+    "pregunta": " No está siguiendo las instrucciones ",
+    "respuesta": "He isn't following the instructions  ",
+    "incorrecta1": "He hasn't following  the instructions ",
+    "incorrecta2": "He aren't following the instructions  ",
+    "incorrecta3": " He isn't followed  the instructions  ",
+    "imagen": "https://cdn.pixabay.com/photo/2018/10/25/10/17/board-3772063_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Follow  ",
+    "pregunta": "No ha seguido el protocolo     ",
+    "respuesta": "  He hasn't followed the protocol  ",
+    "incorrecta1": "He hasn't follow the protocol ",
+    "incorrecta2": "He didn't follow  the protocol",
+    "incorrecta3": "He haven't followed the protocol      ",
+    "imagen": "https://cdn.pixabay.com/photo/2018/10/25/10/17/board-3772063_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Follow ",
+    "pregunta": "Nunca seguirá el mismo camino     ",
+    "respuesta": "He will never follow the same path ",
+    "incorrecta1": "He would never follow the same path  ",
+    "incorrecta2": "He is never going to the same path  ",
+    "incorrecta3": "He will never followed the same path  ",
+    "imagen": "https://cdn.pixabay.com/photo/2021/08/01/17/31/path-6514885_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Follow ",
+    "pregunta": "No va a seguir las reglas     ",
+    "respuesta": "He isn't going to follow the rules  ",
+    "incorrecta1": "He won't follow  the rules  ",
+    "incorrecta2": "He wouldn't follow  the rules ",
+    "incorrecta3": "He isn't going to followed   the rules",
+    "imagen": "https://cdn.pixabay.com/photo/2019/06/03/17/43/office-4249395_960_720.jpg",
+    "objectFit": "contain"
+}]

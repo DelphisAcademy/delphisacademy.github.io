@@ -1,0 +1,53 @@
+[{
+        "categoria": "Give",
+        "pregunta": "Estáis dando demasiada información ",
+        "respuesta": "You are giving too much information ",
+        "incorrecta1": "You are given too much information ",
+        "incorrecta2": "You have giving too much information ",
+        "incorrecta3": "You have given too much information",
+        "imagen": "https://cdn.pixabay.com/photo/2016/01/20/11/54/book-wall-1151405_960_720.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "Give",
+        "pregunta": " Le habéis dado demasiadas oportunidades  ",
+        "respuesta": "You have given him too many chances ",
+        "incorrecta1": "You have gave  him too many chances  ",
+        "incorrecta2": "You gave  him too many chances  ",
+        "incorrecta3": "You have giving  him too many chances  ",
+        "imagen": "https://cdn.pixabay.com/photo/2016/10/24/23/11/doors-1767562_960_720.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "Give  ",
+        "pregunta": "Me disteis el permiso para hacer eso ",
+        "respuesta": "You gave me the permission to do that ",
+        "incorrecta1": "You given me  the permission to do that",
+        "incorrecta2": "You give me  the permission to do that ",
+        "incorrecta3": "You have given  the permission to do that",
+        "imagen": "https://cdn.pixabay.com/photo/2014/08/20/15/35/thumb-422558_960_720.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "Give  ",
+        "pregunta": "Le daréis una lección  ",
+        "respuesta": "You will give them a lesson ",
+        "incorrecta1": "You're going to give them a lesson  ",
+        "incorrecta2": "You will gave them a lesson",
+        "incorrecta3": "You will given them a lesson ",
+        "imagen": "https://cdn.pixabay.com/photo/2015/12/08/00/52/silhouettes-1082129_960_720.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "Give",
+        "pregunta": "Le vais a dar un montón de regalos         ",
+        "respuesta": "You are going to give her a lot of presents        ",
+        "incorrecta1": "You are going to given  her a lot of presents        ",
+        "incorrecta2": "You are going to gave her a lot of presents",
+        "incorrecta3": "You will give her a lot of presents",
+        "imagen": "https://cdn.pixabay.com/photo/2019/12/06/19/06/gifts-4678018_960_720.jpg",
+        "objectFit": "cover"
+
+    }
+
+]

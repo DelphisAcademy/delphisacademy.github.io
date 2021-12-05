@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "  ¿Estás escuchando con atención?    ",
+    "respuesta": "Are you listening  carefully?   ",
+    "incorrecta1": "Do you listen carefully  ",
+    "incorrecta2": "Are you listened  carefully ",
+    "incorrecta3": "Do you listening  carefully    ",
+    "imagen": "https://cdn.pixabay.com/photo/2020/01/22/09/39/teacher-4784916_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "¿Has escuchado la radio? ",
+    "respuesta": " Have you listened to the radio ? ",
+    "incorrecta1": "Did you listened  to the radio  ",
+    "incorrecta2": "Did you listen to the radio  ",
+    "incorrecta3": "Have you listen to the radio",
+    "imagen": "https://cdn.pixabay.com/photo/2018/08/22/10/11/radio-3623299_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "¿Escuchaste a tu profesora?     ",
+    "respuesta": "Did you listen to the teacher?  ",
+    "incorrecta1": "Have you listened to the teacher?   ",
+    "incorrecta2": "Did you listened to the teacher?   ",
+    "incorrecta3": "Have you listen to the teacher? ",
+    "imagen": "https://cdn.pixabay.com/photo/2020/04/20/20/57/training-5069846_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": " ¿Escucharás a tu madre?  ",
+    "respuesta": " Will you listen to your mother ?  ",
+    "incorrecta1": "Are you going to listen to your mother   ",
+    "incorrecta2": " Will you listened to your mother ",
+    "incorrecta3": "Are you going to listened to your mother   ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/22/10/52/family-1848957_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "¿Vas a escucharme?    ",
+    "respuesta": " Are you going to listen to me?    ",
+    "incorrecta1": "  Are you going to listened to me?  ",
+    "incorrecta2": "Will you listen to me   ",
+    "incorrecta3": "Are you going to listened to me    ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/06/15/08/55/lazy-1458443_960_720.png",
+    "objectFit": "contain"
+}]

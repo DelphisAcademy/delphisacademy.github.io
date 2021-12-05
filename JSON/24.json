@@ -1,0 +1,38 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Estáis volando ahora mismo     ",
+    "respuesta": "You are flying right now    ",
+    "incorrecta1": "You have flying right now    ",
+    "incorrecta2": "You are fly right now  ",
+    "incorrecta3": "You fly right now  ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/07/11/23/02/plane-841441_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "Habéis volado por 6 horas   ",
+    "respuesta": "You have flown for 6 hours  ",
+    "incorrecta1": "You have flown for 6 hours ",
+    "incorrecta2": "You flown for 6 hours  ",
+    "incorrecta3": "You have flew   for 6 hours ",
+    "imagen": "https://cdn.pixabay.com/photo/2020/05/24/23/37/airplane-5216583_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Volareis con tu familia   ",
+    "respuesta": "You will fly with your family     ",
+    "incorrecta1": "You are going to fly with your family ",
+    "incorrecta2": "You will flown with your family",
+    "incorrecta3": "You are going to flown with your family  ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/04/20/13/17/airport-731196_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": "  Vais a volar mañana    ",
+    "respuesta": " You are going to fly tomorrow   ",
+    "incorrecta1": "You will fly  tomorrow ",
+    "incorrecta2": " You are going to flown tomorrow  ",
+    "incorrecta3": "You will flown tomorrow     ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/09/09/21/31/luggage-933487_960_720.jpg",
+    "objectFit": "contain"
+}]

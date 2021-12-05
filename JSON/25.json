@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Estás preguntando demasiadas cuestiones     ",
+    "respuesta": "You are asking too many questions    ",
+    "incorrecta1": "You ask too many questions   ",
+    "incorrecta2": "You are ask  too many questions ",
+    "incorrecta3": "You would ask too many questions  ",
+    "imagen": "https://cdn.pixabay.com/photo/2012/04/11/16/17/thinker-28741_960_720.png",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "Has pedido ayuda  ",
+    "respuesta": "You have asked for help  ",
+    "incorrecta1": "You asked for help ",
+    "incorrecta2": "You have asked for help  ",
+    "incorrecta3": "You have ask for help    ",
+    "imagen": "https://cdn.pixabay.com/photo/2018/10/17/20/06/reaching-3754844_960_720.png",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Pediste su número de teléfono   ",
+    "respuesta": "You asked for his phone number     ",
+    "incorrecta1": "You have asked  for his phone number",
+    "incorrecta2": "You have ask for his phone number",
+    "incorrecta3": "You ask  for his phone number ",
+    "imagen": "/img/ty.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": " Pedirás dinero otra vez     ",
+    "respuesta": " You will ask for money again   ",
+    "incorrecta1": "You would ask  for money again",
+    "incorrecta2": "You're going to ask for money again ",
+    "incorrecta3": "You will asked for money again     ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/05/30/14/58/guy-1424911_960_720.png",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": " Vas a pedir postre    ",
+    "respuesta": "You are going to ask for dessert  ",
+    "incorrecta1": "You will ask for dessert",
+    "incorrecta2": " You would ask for dessert  ",
+    "incorrecta3": "You're going to asked for dessert    ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/22/18/52/cake-1850011_960_720.jpg",
+    "objectFit": "contain"
+}]

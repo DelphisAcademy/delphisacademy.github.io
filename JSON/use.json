@@ -1,0 +1,47 @@
+[{
+    "categoria": " Use ",
+    "pregunta": "  Estoy usando tus productos",
+    "respuesta": " I'm using your products    ",
+    "incorrecta1": "I use your products    ",
+    "incorrecta2": "I using your products   ",
+    "incorrecta3": "I'm use your products       ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/02/19/11/35/makeup-1209798_960_720.jpg ",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Use",
+    "pregunta": "No he usado tu tarjeta de crédito todavía     ",
+    "respuesta": "I haven't used your credit card yet ",
+    "incorrecta1": "I haven't use  your credit card yet ",
+    "incorrecta2": "I didn't use your credit card yet",
+    "incorrecta3": "I didn't used your credit card yet     ",
+    "imagen": "https://cdn.pixabay.com/photo/2014/02/01/18/01/money-256319_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Use",
+    "pregunta": "Use tu teléfono para hablar con él    ",
+    "respuesta": " I  used your phone to call him  ",
+    "incorrecta1": "I have used your phone to call him",
+    "incorrecta2": "I using your phone to call him    ",
+    "incorrecta3": "I used your phone to call him",
+    "imagen": "https://cdn.pixabay.com/photo/2016/03/09/09/17/girl-1245713_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Use",
+    "pregunta": "Usaré las dos habitaciones",
+    "respuesta": "I will use the two bedrooms",
+    "incorrecta1": "I'm going to the two bedrooms ",
+    "incorrecta2": " I will used the two bedrooms",
+    "incorrecta3": "I would use the two bedrooms ",
+    "imagen": "https://cdn.pixabay.com/photo/2014/08/11/21/40/bedroom-416062_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Use",
+    "pregunta": "No voy a usar el coche hoy    ",
+    "respuesta": " I'm not going to use the car  today    ",
+    "incorrecta1": "I would not use the car  today   ",
+    "incorrecta2": "I will not use the car  today     ",
+    "incorrecta3": "I'm not going to used the car  today  ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/09/02/12/25/bmw-918408_960_720.jpg",
+    "objectFit": "contain"
+}]

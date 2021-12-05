@@ -1,0 +1,47 @@
+[{
+    "categoria": " Take ",
+    "pregunta": "Estoy tomando las pastillas todos los días  ",
+    "respuesta": " I'm taking the pills everyday   ",
+    "incorrecta1": "I take  the pills everyday   ",
+    "incorrecta2": "I'm took the pills everyday   ",
+    "incorrecta3": "I taking  the pills everyday       ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/23/15/03/medications-1853400_960_720.jpg",
+    "objectFit": "cover"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "Hoy he cogido el autobús dos veces",
+    "respuesta": "I have taken the bus twice today",
+    "incorrecta1": "I took the bus twice today  ",
+    "incorrecta2": "I have take the bus twice today ",
+    "incorrecta3": "I take the bus twice today",
+    "imagen": "https://cdn.pixabay.com/photo/2017/07/27/19/10/bus-2546383_960_720.jpg",
+    "objectFit": "cover"
+}, {
+    "categoria": " Take",
+    "pregunta": "Cogí tu chaqueta porque hacía frío afuera     ",
+    "respuesta": " I took your jacket because it was cold outside  ",
+    "incorrecta1": "I have taken   your jacket because it was cold outside ",
+    "incorrecta2": "I tooked  your jacket because it was cold outside ",
+    "incorrecta3": "I take  your jacket because it was cold outside ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/03/27/19/57/woman-1284029_960_720.jpg",
+    "objectFit": "cover"
+}, {
+    "categoria": "  Take",
+    "pregunta": "Cogeré un paraguas ",
+    "respuesta": " I will take an umbrella",
+    "incorrecta1": ",I will took an umbrella",
+    "incorrecta2": " I'm going to take an umbrella",
+    "incorrecta3": "I would take an umbrella  ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/29/05/55/adult-1867665_960_720.jpg",
+    "objectFit": "cover"
+}, {
+    "categoria": " Take",
+    "pregunta": "Voy a coger un vuelo a Nueva York     ",
+    "respuesta": " I'm going to take a plane to New York    ",
+    "incorrecta1": "I will take  a plane to New York    ",
+    "incorrecta2": "I would take a plane to New York     ",
+    "incorrecta3": "I'm going to taken a plane to New York ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/10/28/13/09/usa-1777986_960_720.jpg",
+    "objectFit": "cover"
+}]

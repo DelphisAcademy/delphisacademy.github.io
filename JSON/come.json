@@ -1,0 +1,47 @@
+[{
+    "categoria": "Come",
+    "pregunta": "Vienes esta noche  ",
+    "respuesta": "You are coming tonight   ",
+    "incorrecta1": "You are come  tonight ",
+    "incorrecta2": "You have coming  tonight  ",
+    "incorrecta3": "You are came  tonight ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/23/13/45/celebration-1852926_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "Come",
+    "pregunta": "Vas a venir al evento con su familia     ",
+    "respuesta": "You are going to come to the event with her family  ",
+    "incorrecta1": "You will come to the event with her family  ",
+    "incorrecta2": "You're going to came to the event with her family ",
+    "incorrecta3": " You would come to the event with her family ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/08/16/09/53/international-conference-1597531_960_720.jpg",
+    "objectFit": "cover"
+}, {
+    "categoria": "Come ",
+    "pregunta": "Has venido sin dinero    ",
+    "respuesta": "  You have come without money ",
+    "incorrecta1": "You have came without money ",
+    "incorrecta2": "You came without money",
+    "incorrecta3": "You come without money     ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/04/25/23/53/euro-1353420_960_720.jpg",
+    "objectFit": "cover"
+}, {
+    "categoria": " Come",
+    "pregunta": "Viniste a mi casa sin avisar     ",
+    "respuesta": "You came to my house without warning  ",
+    "incorrecta1": "You have came without warning  ",
+    "incorrecta2": "You have come without warning  ",
+    "incorrecta3": "You come without warning  ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/21/18/26/woman-1847044_960_720.jpg",
+    "objectFit": "cover"
+}, {
+    "categoria": "Come ",
+    "pregunta": "Vendrás a la fiesta conmigo ",
+    "respuesta": "You will come to the party with me ",
+    "incorrecta1": "You are going to come to  the party with me  ",
+    "incorrecta2": "You will come to  the party with me ",
+    "incorrecta3": "You would come to  the party with me",
+    "imagen": "https://cdn.pixabay.com/photo/2017/07/21/23/57/concert-2527495_960_720.jpg",
+    "objectFit": "cover"
+}]

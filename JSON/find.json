@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Estoy encontrando muchos errores en tu examen     ",
+    "respuesta": "I'm finding a lot of mistakes in your exam    ",
+    "incorrecta1": "I finding a lot of mistakes in your exam    ",
+    "incorrecta2": "I found a lot of mistakes in your exam    ",
+    "incorrecta3": "I'm find a lot of mistakes in your exam     ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/07/20/03/53/homework-2521144_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "He encontrado tus llaves    ",
+    "respuesta": "I have found your keys    ",
+    "incorrecta1": "I found your keys  ",
+    "incorrecta2": "I have founded your keys  ",
+    "incorrecta3": "I founded your keys      ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/01/09/13/52/keys-1966556_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": " Voy a encontrar sus gafas   ",
+    "respuesta": "I am going to find her glasses     ",
+    "incorrecta1": "I will find her glasses   ",
+    "incorrecta2": "I'm going to found her glasses  ",
+    "incorrecta3": "I would find her glasses   ",
+    "imagen": "https://cdn.pixabay.com/photo/2014/05/03/01/03/laptop-336704_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": " Encontré un buen restaurante      ",
+    "respuesta": " I found a nice restaurant",
+    "incorrecta1": "I have founded a nice restaurant ",
+    "incorrecta2": " I have found a nice restaurant ",
+    "incorrecta3": "I founded a nice restaurant     ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/03/26/10/28/restaurant-691397_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "  Encontraré un buen sitio para vivir      ",
+    "respuesta": " I will find a great place to live    ",
+    "incorrecta1": "I would find a great place to live  ",
+    "incorrecta2": "I'm going to find a great place to live     ",
+    "incorrecta3": "I will found a great place to live    ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/06/24/10/47/house-1477041_960_720.jpg",
+    "objectFit": "contain"
+}]

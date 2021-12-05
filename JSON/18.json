@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Se está casando con su prometida     ",
+    "respuesta": "He is marrying his fiancé    ",
+    "incorrecta1": " He would marry    ",
+    "incorrecta2": "He marries    ?    ",
+    "incorrecta3": "He married    ",
+    "imagen": "https://cdn.pixabay.com/photo/2014/11/13/17/04/heart-529607_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "Se ha casado con Julia     ",
+    "respuesta": "He has married  Julie   ",
+    "incorrecta1": "He married ",
+    "incorrecta2": "He has marry  ",
+    "incorrecta3": "He have married         ",
+    "imagen": "https://cdn.pixabay.com/photo/2014/02/07/11/36/couple-260899_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "    Se caso con ella hace 5 años        ",
+    "respuesta": "He married her 5 years ago     ",
+    "incorrecta1": "He have married   ",
+    "incorrecta2": "He has married ",
+    "incorrecta3": "He has marry    ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/08/06/20/11/wedding-2595862_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": "Se casara con ella el año que viene     ",
+    "respuesta": " He will marry her next year",
+    "incorrecta1": "He would marry ",
+    "incorrecta2": " He's going to marry ",
+    "incorrecta3": "He will married     ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/03/09/12/10/couple-1246304_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Se va a casar con mi hermana la semana que viene     ",
+    "respuesta": "He is going to marry my sister next week    ",
+    "incorrecta1": "He will marry    ",
+    "incorrecta2": "He would marry    ",
+    "incorrecta3": "He's going to married",
+    "imagen": "https://cdn.pixabay.com/photo/2019/11/10/11/13/couple-4615557_960_720.jpg",
+    "objectFit": "contain"
+}]
