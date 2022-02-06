@@ -5,7 +5,7 @@
     "incorrecta1": "I use your products    ",
     "incorrecta2": "I using your products   ",
     "incorrecta3": "I'm use your products       ",
-    "imagen": "https://cdn.pixabay.com/photo/2016/02/19/11/35/makeup-1209798_960_720.jpg ",
+    "imagen": "https://images.pexels.com/photos/3993398/pexels-photo-3993398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "objectFit": "contain"
 
 }, {
@@ -24,7 +24,7 @@
     "incorrecta1": "I have used your phone to call him",
     "incorrecta2": "I using your phone to call him    ",
     "incorrecta3": "I used your phone to call him",
-    "imagen": "https://cdn.pixabay.com/photo/2016/03/09/09/17/girl-1245713_960_720.jpg",
+    "imagen": "https://cdn.pixabay.com/photo/2014/02/01/18/01/money-256319_960_720.jpg",
     "objectFit": "contain"
 }, {
     "categoria": "Use",
@@ -42,6 +42,6 @@
     "incorrecta1": "I would not use the car  today   ",
     "incorrecta2": "I will not use the car  today     ",
     "incorrecta3": "I'm not going to used the car  today  ",
-    "imagen": "https://cdn.pixabay.com/photo/2015/09/02/12/25/bmw-918408_960_720.jpg",
+    "imagen": "https://images.pexels.com/photos/1149137/pexels-photo-1149137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "objectFit": "contain"
 }]
